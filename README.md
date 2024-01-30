@@ -30,7 +30,7 @@ rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's pr
 
 ## The Following Possible Developments
 - Patch NVDLA driver for newer kernels. There is a NVDLA SW [fork](https://github.com/ucb-bar/nvdla-sw) which should support Linux kernel 5.7.
-- Try to find another compiler and use it. ~~There is open source [ONNC](https://github.com/ONNC/onnc) compiler which should support compiling ONNX NN for NVDLA. Only the [commercial version](https://github.com/nvdla/sw/issues/217#issuecomment-863889867) support INT8.~~
+- ~~Try to find another compiler and use it. There is open source [ONNC](https://github.com/ONNC/onnc) compiler which should support compiling ONNX NN for NVDLA.~~ Only the [commercial version](https://github.com/nvdla/sw/issues/217#issuecomment-863889867) support INT8.
 - Try to run [Tengine](https://github.com/OAID/Tengine).
 - Try to use anoter open source CNN accelerator. PipeCNN, Gemmini, TVM?
 - Find out how NVDLA Loadables works.
