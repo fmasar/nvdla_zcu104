@@ -126,7 +126,7 @@ opendla-objs := nvdla_core_callbacks.o nvdla_gem.o scheduler.o engine.o bdma.o c
 Add all the NVDLA driver files to the SRC_URI variable in opendla.bb and change the licence checksum if you are replacing it with an right licence. You can use [/petalinux/opendla/opendla.bb](/petalinux/opendla/opendla.bb) as a reference.
 
 #### 3.1.4.4 Device Tree
-
+Path to file with device tree `project-spec/meta-user/recipes-bsp/device-tree/files/system-user.dtsi`.
 ```
 /include/ "system-conf.dtsi"
 / {
