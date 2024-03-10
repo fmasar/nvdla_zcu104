@@ -31,6 +31,8 @@ rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's pr
 ## TODO
 
 - Add guide how to add SO-DIMM RAM module, because 2 GB of on-board RAM are not enough for this project.
+- Add guide how to replace rootfs with Debian/Ubuntu.
+- Add guide to Tengine.
 
 ## The Following Possible Developments
 - Patch NVDLA driver for newer kernels. There is a NVDLA SW [fork](https://github.com/ucb-bar/nvdla-sw) which should support Linux kernel 5.7.
