@@ -28,6 +28,10 @@ petalinux/  - OpenDLA module and kernel config
 rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's project
 ```
 
+## TODO
+
+- Add guide how to add SO-DIMM RAM module, because 2 GB of on-board RAM are not enough for this project.
+
 ## The Following Possible Developments
 - Patch NVDLA driver for newer kernels. There is a NVDLA SW [fork](https://github.com/ucb-bar/nvdla-sw) which should support Linux kernel 5.7.
 - ~~Try to find another compiler and use it. There is open source [ONNC](https://github.com/ONNC/onnc) compiler which should support compiling ONNX NN for NVDLA.~~ Only the [commercial version](https://github.com/nvdla/sw/issues/217#issuecomment-863889867) support INT8.
