@@ -74,3 +74,7 @@ rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's pr
 <https://github.com/SameLight/ITRI-OpenDLA>
 
 <https://github.com/ucb-bar/gemmini>
+
+<https://github.com/prasshantg/personal>
+
+<https://convertmodel.com/>
