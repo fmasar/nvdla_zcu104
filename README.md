@@ -62,6 +62,10 @@ rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's pr
 
 <https://www.eit.lth.se/sprapport.php?uid=1186>
 
+<https://github.com/SameLight/ITRI-OpenDLA>
+
+<https://github.com/ucb-bar/gemmini>
+
 ## Another Interesting CNN FPGA Projects
 <https://github.com/LCAI-TIHU/SW>
 
@@ -70,10 +74,6 @@ rtl/        - Generated RTL output from NVDLA HW with wrapper from Lei Wang's pr
 <https://github.com/UCLA-VAST/FlexCNN>
 
 <https://tvm.apache.org/>
-
-<https://github.com/SameLight/ITRI-OpenDLA>
-
-<https://github.com/ucb-bar/gemmini>
 
 <https://github.com/prasshantg/personal>
 
